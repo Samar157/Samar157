@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samar Pratap Singh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-<img align="right" alt="coding" width="524" src="https://github.com/user-attachments/assets/2847ba5b-ea96-4829-b16b-c090073bd2c7">
-
+<img align="right" alt="coding" width="524" src="https://github.com/user-attachments/assets/34e2b7fb-92b9-4e77-9b2c-758d21b65998">
+">
 
 "
 
