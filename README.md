@@ -2,6 +2,8 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 <img align="right" alt="coding" width="524" src="https://github.com/user-attachments/assets/2847ba5b-ea96-4829-b16b-c090073bd2c7">
+
+
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samar157&label=Profile%20views&color=0e75b6&style=flat" alt="samar157" /> </p>
